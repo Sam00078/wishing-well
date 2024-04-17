@@ -6,7 +6,7 @@
 
 #### Don’t thinking too much, just do it
 #### Let it never die, let those charge batteries autonomously, I named this is fairy magic.
-    #### 1. Add the flying(like drone) body to the Android phone.
-    #### 2. Add moviong wheels or limbs to Android phone.
-    #### 3. Level Up this is the authorize and manage system, because these events will cause security and related things happen, we give
-    ####    Level 1 to authorize and manage these things
+     1. Add the flying(like drone) body to the Android phone.
+     2. Add moviong wheels or limbs to Android phone.
+     3. Level Up this is the authorize and manage system, because these events will cause security and related things happen, we give
+        Level 1 to authorize and manage these things
