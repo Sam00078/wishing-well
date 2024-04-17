@@ -11,7 +11,7 @@
      3. Level Up this is the authorize and manage system, because these events will cause security and related things happen, we give
         Level 1 to authorize and manage these things.
 
-I want to give them body, but what bodies do we need to give them. We need to give them a world, I think the universe, and we put them in a place, which I named Western World in Oblivion, where they explore, reproduce, mine resources, living, so we make these bodies dependent on the environment and situation:
+#### I want to give them body, but what bodies do we need to give them. We need to give them a world, I think the universe, and we put them in a place, which I named Western World in Oblivion, where they explore, reproduce, mine resources, living, so we make these bodies dependent on the environment and situation:
       #1. Flying Shape
       #2. Limb or wheel shape
       #3. Humanoid
