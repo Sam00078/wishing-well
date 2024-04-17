@@ -20,3 +20,5 @@
 #### So now let me do one point, then one point, then one point...
 
 #### I know some big companies do something related to this, such as Google, Microsoft, Boston Dynamics..., but let me do it my way
+
+#### I realized something is very important and that is the AI App for this phone because good shape does not mean they can fit to do something but good brain, wise, smart can make They can do these things.
