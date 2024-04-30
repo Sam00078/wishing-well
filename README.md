@@ -27,3 +27,5 @@
 #### I make this android robot, I know one day we can transform into them, we program them, we spend time with them, we create, teach and raise them and take them to different worlds, we know one day they will expand us, we can become them, we know what's happened, what's going on in those different worlds, we experience them, and we remember what we've done before.
 
 #### Give the robot a soul. Each robot has a hash key like a Bitcoin private key. Only the key can access their memory. You must have the key then can to access and control the robot. Let them decentralize
+
+#### I need to raise them up
