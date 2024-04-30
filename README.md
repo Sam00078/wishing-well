@@ -25,3 +25,5 @@
 
 #### We raise children, caz we feel what they feel, we can experience part of what they are experiences, we help them, we teach them, and we want them to have a good life. One day when we are old we can go visit them and know what happened, and there was a time when we were there, we were with them, and they continued and expanded us. That's what we wanted, what we were, what our live.
 #### I make this android robot, I know one day we can transform into them, we program them, we spend time with them, we create, teach and raise them and take them to different worlds, we know one day they will expand us, we can become them, we know what's happened, what's going on in those different worlds, we experience them, and we remember what we've done before.
+
+#### Give the robot a soul. Each robot has a hash key like a Bitcoin private key. Only the key can access their memory. You must have the key then can to access and control the robot. Let them decentralize
