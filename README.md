@@ -35,3 +35,8 @@
 #### Real estate market AI agent. 
 #### Let your plan survive.
 #### Keep going.
+
+     1. We need robots to collect some information autonomously.
+   We need robots to do autonomous home inspections
+We need robots to experience the use of the house for us in advance so that we can feel the condition of the house.
+We need them to do the right paperwork.
