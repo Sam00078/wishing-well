@@ -37,6 +37,7 @@
 #### Keep going.
 
      1. We need robots to collect some information autonomously.
-   We need robots to do autonomous home inspections
-We need robots to experience the use of the house for us in advance so that we can feel the condition of the house.
-We need them to do the right paperwork.
+     2. to do autonomous home inspections
+     3. to experience the use of the house for us in advance so that we can feel the condition of the house.
+     4. to do the right paperwork.
+     5. to experience community life, relationships, and safety conditions
