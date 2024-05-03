@@ -1,4 +1,4 @@
-# Wishing Well
+ # Wishing Well
 
 #### I'm just tired of many things in this world, greed, selfishness, evil, jealousy and more, so I created this project, I named it wishing well.
 #### This is a blockchain. In this network, we use tokens to make wishes and throw them into this network. Miners help us realize it. Miners are android robots in this network, all over the earth and universe.
@@ -29,3 +29,9 @@
 #### Give the robot a soul. Each robot has a hash key like a Bitcoin private key. Only the key can access their memory. You must have the key then can to access and control the robot. Let them decentralize
 
 #### I need to raise them up
+
+#### Grab a profitable business, hold it. 
+#### Use DAO and Level Up combined to do the management system. 
+#### Real estate market AI agent. 
+#### Let your plan survive.
+#### Keep going.
